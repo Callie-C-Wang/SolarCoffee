@@ -1,2 +1,0 @@
-I generate solarcoffee.frontend
-Hello
