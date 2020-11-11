@@ -13,6 +13,6 @@ namespace SolarCoffee.Data
         }
 
         public virtual DbSet<Customer> Customers {get; set; } // developer needs to create C# class with name Customer
-        public virtual DbSet<CustomerAddress>
+        public virtual DbSet<CustomerAddress> CustomerAddresses { get; set; }
     }
 }
