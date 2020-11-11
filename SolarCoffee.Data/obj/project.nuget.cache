@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xM7dUiuRzipXP30rp4ID2SyjksCDlFIJJ8QL/I759fEzO65nAzAN4418iDT5WZsoS4jPzZ8wqivHp7S/2Gz51w==",
+  "success": true,
+  "projectFilePath": "C:\\CodeSpace\\ToDevelop\\VueNetCorePostgreSQL\\SolarCoffee\\SolarCoffee.Data\\SolarCoffee.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cwang\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\cwang\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\cwang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
